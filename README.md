@@ -1,3 +1,4 @@
+[![Build Status](https://david-dm.org/lzia/mechadede.svg)](https://david-dm.org/lzia/mechadede)
 # MechaDédé
 ![André Marques](http://ejesa.statig.com.br/bancodeimagens/9z/2j/8r/9z2j8r7jvfvu4e5axwmktm0pj.jpg)
 ## About
