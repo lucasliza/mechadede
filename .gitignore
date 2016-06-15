@@ -44,6 +44,7 @@ lib/modules/Games/hs/golden
 db/credits.json
 db/reply-channels.json
 db/prayers.json
+db/customcommands.json
 
 backups
 
