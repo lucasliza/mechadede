@@ -16,8 +16,9 @@ Rename `config.json.example` to `config.json` and fill in the required informati
 - Install [python v2.7.3](https://www.python.org) ([32 bit](https://www.python.org/ftp/python/2.7.3/python-2.7.3.msi), [64 bit](https://www.python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi))
 - Install [node-gyp](https://github.com/nodejs/node-gyp) (open the [command prompt](http://windows.microsoft.com/en-us/windows/command-prompt-faq) and write `npm install -g node-gyp`)
 - Install the Cairo library bundled with GTK [Win64](http://ftp.gnome.org/pub/GNOME/binaries/win64/gtk+/2.22/gtk+-bundle_2.22.1-20101229_win64.zip)/[Win32](http://ftp.gnome.org/pub/GNOME/binaries/win32/gtk+/2.24/gtk+-bundle_2.24.10-20120208_win32.zip)
+- Install [ImageMagick](http://www.imagemagick.org/script/index.php)
 - Run `npm-install.bat` to install the Node dependencies
-- Run `launch.bat` to start the bot
+- Run `start.bat` or `startLoop.bat` to start the bot
 
 #### Linux:
 - Install [node.js](https://nodejs.org/en/) v4.0 or higher
