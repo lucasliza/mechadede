@@ -1,1 +1,1 @@
-npm run forever
+set NODE_ENV=production&&forever --minUptime 5000 index.js
