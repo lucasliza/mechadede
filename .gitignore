@@ -39,10 +39,12 @@ config.json
 
 res*.png
 res*.jpg
-lib/modules/Games/hs/golden
 
 db/credits.json
 db/reply-channels.json
 db/customcommands.json
+db/eightball.json
+db/expressions.json
+db/credits_claim.json
 
 backups
